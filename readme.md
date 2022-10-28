@@ -8,7 +8,7 @@ In this repo you can find the PDF version of the Preesentation.
 
 ## 2022
 - AZDevConf (India) https://github.com/OrdinaNederland/designforcosts/blob/main/AZConf2022.pdf
-- VisugXL (Belgium)
+- VisugXL (Belgium) https://github.com/OrdinaNederland/designforcosts/blob/main/VisugXL2022.pdf
 
 ## feedback? 
 Don't hesitate to contact us
